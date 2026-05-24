@@ -15,7 +15,7 @@ from google.oauth2.service_account import Credentials
 logging.basicConfig(level=logging.INFO)
 
 # ================= TOKEN + ADMIN =================
-TOKEN = "8422029302:AAFCYW0w6jJNdntMH8g4Fe9movGqtdJjHlo"
+TOKEN = "8422029302:AAFBGSnIzv1J0EFW-rk55eHm-u2n7-nD8V0"
 ADMIN_ID = 8476112476
 
 # ================= GOOGLE SHEETS =================
